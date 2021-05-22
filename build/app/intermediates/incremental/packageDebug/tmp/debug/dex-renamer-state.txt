@@ -1,0 +1,4 @@
+#Sat May 15 01:55:42 IST 2021
+base.0=/Users/mac/Documents/PrinceWorkspace/Flutter_workspace/portfolios/sorting_visulization/sorting_visulization/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

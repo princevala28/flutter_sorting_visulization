@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/sorting_visulization/BuildConfig.java
+ com.example.sorting_visulization.BuildConfig
